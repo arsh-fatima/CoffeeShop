@@ -1,0 +1,13 @@
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\bin\Debug\CoffeeShopSC.exe.config
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\bin\Debug\CoffeeShopSC.exe
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\bin\Debug\CoffeeShopSC.pdb
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.csprojAssemblyReference.cache
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.AddCoffee.resources
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.buyCoffee.resources
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.CoffeeShop.resources
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.Properties.Resources.resources
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.viewCoffee.resources
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.csproj.GenerateResource.cache
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.csproj.CoreCompileInputs.cache
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.exe
+C:\Users\Arsh Fatima\source\repos\CoffeeShopSC\CoffeeShopSC\obj\Debug\CoffeeShopSC.pdb
